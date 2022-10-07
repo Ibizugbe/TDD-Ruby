@@ -2,55 +2,48 @@
 
 # Project Name
 
-> Description the project.
+> In this project we implemented a class by doing test-driven development (TDD). The idea is to write tests first and then the code. 
+
+IMPORTANT NOTE: Read all requirements before you start building your project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
+- Rspec
+- VScode
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+In the terminal:
 
-### Setup
+### Clone the repo
+`git clone https://github.com/Ibizugbe/TDD-Ruby.git`
 
-### Install
-
-### Usage
+### cd into  repo
+`cd <relative path>/TDD-Ruby/`
 
 ### Run tests
-
-### Deployment
-
+`rspec spec`
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ackon Samuel**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AckonSamuel](https://github.com/AckonSamuel/)
+- Twitter: [@AckonSamuel2](https://twitter.com/AckonSamuel2)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-yaw-ackon/)
 
-👤 **Author2**
+👤 **Abraham Ibizugbe**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@AckonSamuel](https://github.com/ibizugbe/)
+- Twitter: [@AckonSamuel2](https://twitter.com/abrahamibizugbe)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abrahamibizugbe/)
 
 ## 🤝 Contributing
 
@@ -62,14 +55,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
