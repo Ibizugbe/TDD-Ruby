@@ -53,5 +53,4 @@ describe Solver do
       expect(solver.reverse('hello')).to eq('olleh')
     end
   end
-
 end
