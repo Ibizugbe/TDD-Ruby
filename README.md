@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Test Driven Development - Ruby
 
 > In this project we implemented a class by doing test-driven development (TDD). The idea is to write tests first and then the code. 
 
