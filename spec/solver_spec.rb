@@ -41,4 +41,17 @@ describe Solver do
       expect(solver.fizzbuzz(30)).to eq('fizzbuzz')
     end
   end
+
+  describe '#reverse' do
+    it "returns 'esrever' when given 'reverse'" do
+      expect(solver.reverse('reverse')).to eq('esrever')
+    end
+    it "returns 'dlrow' when given 'world'" do
+      expect(solver.reverse('world')).to eq('dlrow')
+    end
+    it "returns 'olleh' when given 'hello'" do
+      expect(solver.reverse('hello')).to eq('olleh')
+    end
+  end
+
 end
