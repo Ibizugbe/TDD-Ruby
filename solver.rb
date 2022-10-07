@@ -9,6 +9,14 @@ class Solver
     end
   end
 
+  def reverse(string)
+    if string == ''
+      ''
+    else
+      string.reverse
+    end
+  end
+
   def fizzbuzz(num)
     if (num % 3).zero? && (num % 5).zero?
       'fizzbuzz'
