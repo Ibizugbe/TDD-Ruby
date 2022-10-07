@@ -1,3 +1,5 @@
+require './solver'
+
 describe Solver do
   solver = Solver.new
   describe '#factorial' do
@@ -53,5 +55,4 @@ describe Solver do
       expect(solver.reverse('hello')).to eq('olleh')
     end
   end
-
 end
